@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Find info about local candidates'
+landing-title: 'Click Get Started for info about local candidates.
 description: null
 image: null
 author: null
