@@ -75,7 +75,7 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>About Us</h2>
+			<h2>About</h2>
 		</header>
 		<p>Official information provided through the courtesy of the Voter Information Project.</p>
 		<ul class="actions">
